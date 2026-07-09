@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Q-Fin Daily</title>
+    <link>https://GHO632.github.io/Arxiv-Podcast/</link>
+    <description>Tägliche Kurz-Zusammenfassung neuer Arxiv-Artikel aus Quantitative Finance</description>
+    <language>de</language>
+    <generator>GitHub Actions</generator>
+    <!-- Hier fügt das Skript später <item>-Einträge für jede Episode hinzu -->
+  </channel>
+</rss>
